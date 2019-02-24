@@ -1,0 +1,9 @@
+ua\lviv\iot\waterSports\Main.class
+ua\lviv\iot\waterSports\models\Aquajogging.class
+ua\lviv\iot\waterSports\models\Rating.class
+ua\lviv\iot\waterSports\models\Swimming.class
+ua\lviv\iot\waterSports\models\WaterPolo.class
+ua\lviv\iot\waterSports\models\WaterSports.class
+ua\lviv\iot\waterSports\models\Windsurfing.class
+ua\lviv\iot\waterSports\managers\WaterSportsManager.class
+ua\lviv\iot\waterSports\managers\IWaterSportsManager.class
